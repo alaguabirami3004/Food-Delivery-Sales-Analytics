@@ -1,0 +1,11 @@
+﻿Order_ID,Order_Time,Location,Food_Item,Quantity,Price
+1001,10:30,Chennai,Pizza,2,300
+1002,12:15,Madurai,Burger,1,150
+1003,13:45,Chennai,Fried Rice,3,180
+1004,18:20,Coimbatore,Pizza,1,300
+1005,19:10,Madurai,Biryani,2,250
+1006,20:30,Chennai,Burger,2,150
+1007,11:00,Trichy,Dosa,4,80
+1008,14:30,Coimbatore,Biryani,3,250
+1009,17:15,Trichy,Pizza,2,300
+1010,21:00,Chennai,Fried Rice,1,180
